@@ -1,2 +1,2 @@
-# e-ebaynazec.github.io
+# e-ebaynazec.com
 Kişisel site

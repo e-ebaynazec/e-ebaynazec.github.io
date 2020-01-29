@@ -1,3 +1,3 @@
 <font color="red">---------------------------------------------------Yanlış Kısımdasınız-------------------------------- </font>
-
-Ana Sayfamıza gitmek için: <a target=""> https://e-ebaynazec.github.io/Lobi.html </a>
+<br><br><br><br><br>
+<font color="green">Ana Sayfamıza gitmek için</font>: <a target=""> https://e-ebaynazec.github.io/Lobi.html </a>
